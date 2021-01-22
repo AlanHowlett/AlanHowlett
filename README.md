@@ -5,7 +5,7 @@
 
 <!-- posts --><!-- /posts -->
 <!--
-**AlanHowlett/AlanHowlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AlanHowlett/AlanHowlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 ### 💬 Ask me about ...
 - 📫 How to reach me: ... name@gmail
 - 😄 Pronouns: ...
-### ⚡ Fun fact: ... I've deadlifted 450lbs.  I raise oysters to help the Chesapeake Bay.  
--->
+### ⚡ Fun facts: ... 
+I've deadlifted 450lbs. I used to hold 3 Maryland State Powerlifting records: deadlift, benchpress, and total lifted.
+I raise oysters to help the Chesapeake Bay. 
+I ve sailed from Maryland to Rhode Island, Maryland to Bermuda, and Florida to Jamaica. I've sailed in the BVI and Antigua-Barbuda.
+I've done 2.5 somersaults, and 2 reverse somersaults from a diving board.
+I'm in my high school Sports Hall of Fame for wrestling.
